@@ -12,7 +12,7 @@ While most of my work as been propriatary up until now, I am looking forward to 
 
 I am interested in contributing to some software that I use daily, like FreeScout. 
 
-Projects I am proud of:
+Projects I am proud of:<br/>
 [Network modernization in a retail environment](https://github.com/StevieSloffer/multi-site-sdn-adoption.git)  
 
 <!--
