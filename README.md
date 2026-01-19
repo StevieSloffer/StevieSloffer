@@ -17,6 +17,9 @@ I am interested in contributing to some software that I use daily, like FreeScou
 Projects I am proud of:<br/>
 [Network modernization in a retail environment](https://github.com/StevieSloffer/multi-site-sdn-adoption.git)  
 
+
+Check out my [resume/cv](https://github.com/StevieSloffer/StevieSloffer/blob/main/Stevie%20Sloffer%20Resume%202026.pdf)
+
 <!--
 **StevieSloffer/StevieSloffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
