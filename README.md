@@ -12,6 +12,9 @@ While most of my work as been propriatary up until now, I am looking forward to 
 
 I am interested in contributing to some software that I use daily, like FreeScout. 
 
+Projects I am proud of:
+[Network modernization in a retail environment](https://github.com/StevieSloffer/multi-site-sdn-adoption.git)  
+
 <!--
 **StevieSloffer/StevieSloffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
