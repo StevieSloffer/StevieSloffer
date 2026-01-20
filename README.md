@@ -17,6 +17,7 @@ I am interested in contributing to some software that I use daily, like [FreeSco
 Projects I am proud of:<br/>
 * [Network modernization in a retail environment](https://github.com/StevieSloffer/multi-site-sdn-adoption.git)<br/>
 * [Report building, when to real-time and when to schedule](https://github.com/StevieSloffer/actionable-reporting-tools.git)
+* [Automatic temperature reporting](https://github.com/StevieSloffer/iot-temperature-monitoring.git)
 
 
 Check out my [resume/cv](https://github.com/StevieSloffer/StevieSloffer/blob/main/Stevie%20Sloffer%20Resume%202026.pdf)
