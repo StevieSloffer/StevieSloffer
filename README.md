@@ -10,7 +10,7 @@ I'm an automation and support engineer specializing in python-based automation, 
 
 I have spent hundreds of hours–from concept, to deployment, to thoughtful support & troubleshooting–building and maintaining solid, stable networks, tending to a collection of Linux VMs (and their firewalls and backups), and developing automation tools that improve efficiency and save on operation costs. Whether I am writing software to bring data to the finger tips of stakeholders, troubleshooting bothersome networking issues in retail environments, or coaching someone on a new technology, providing amazing support is always at the heart of my work. The tools I lean on most to administer great support are Linux (server & desktop), great relationships with my customers, Python, SQL, and reliable follow-through. 
 
-While most of my work as been propriatary up until now, I am looking forward to beginning my entry into open source contributions.
+While most of my work has been propriatary up until now, I am looking forward to beginning my entry into open source contributions.
 
 I am interested in contributing to some software that I use daily, like [FreeScout](https://github.com/freescout-helpdesk). 
 
